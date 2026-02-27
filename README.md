@@ -8,7 +8,7 @@ Interested in robotics, embedded systems and autonomous technologies.
 
 ###
 
-<h2 align="left">👾Languages ​​and technologies</h2>
+## 👾Languages ​​and technologies
 
 ###
 
