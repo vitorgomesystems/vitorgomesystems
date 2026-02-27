@@ -1,16 +1,10 @@
 ## Hey! I am Vitor
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">     
-</div>
+Mechanical Engineering student focused on integrating hardware and software systems. Background in programming and object-oriented design, with experience developing back-end applications in Java and applying data structures to solve practical problems.
+
+Interested in robotics, embedded systems and autonomous technologies.
  
- <br>
  
-  ### Caso queira entrar em contato comigo, minhas redes sociais estão abaixo!
- 
-<div> 
-  <a href = "mailto:vitorgosantosdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
 
 
   
