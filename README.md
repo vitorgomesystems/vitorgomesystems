@@ -1,4 +1,4 @@
-## 🧑‍💻Hey! I`m Vitor Gomes
+## 🧑🏻‍💻Hey! I`m Vitor Gomes
 
 **`Mechatronics Engineering`**
 
